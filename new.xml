@@ -1,0 +1,20 @@
+<shortBio>
+		<name> 
+			<firstName> Victoria</firstName>
+			<lastName> Vasylieva</lastName>
+		</name>
+		<age>27</age>
+		<languages>  
+			<ukrainian>native</ukrainian>
+			<english>fluent</english>
+			<ukrainian>beginner</ukrainian>
+		</languages>
+		<nationality>Ukrainian</nationality>
+		<phoneNumber>2893985466</phoneNumber>
+		<city>Kyiv</city>
+		<gender>female</gender>
+		<drivingLicense>Yes</drivingLicense>
+		<height>182</height>
+		<children>no</children>
+		<pets>no</pets>
+</shortBio>
