@@ -1,1 +1,13 @@
 
+<bugReport>
+	<id>456</id>
+	<severity>Trivial</severity>
+	<priority>Medium</priority>
+	<title>The Sign in button is misaligned in Firefox</title>
+	<stepsToReproduce>
+		<first>Open the app in any browser</first>
+		<second>Click on Sign in</second>
+	</stepsToReproduce>
+	<expectedResult>The Sign in button is center-aligned with the Username and Password input fields</expectedResult>
+	<actualResult>The Sign in button is displayed on the left side of the form</actualResult>
+</bugReport>
