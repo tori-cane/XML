@@ -1,0 +1,17 @@
+<preferences>
+	<favoriteMovie>Forrest Gump</favoriteMovie>
+	<favoriteFlower>Protea</favoriteFlower>
+	<favoriteBeverage> 
+		<hot>Green Tea</hot>
+		<cold>Lemonade</cold>
+	</favoriteBeverage>
+	<favoriteMusic>Mozart</favoriteMusic>
+	<favoriteBook>Faust</favoriteBook>
+	<favoriteSeason>Spring</favoriteSeason>
+	<favoriteCities>
+		<USA>New York</USA>
+		<GreatBritain>Bristol</GreatBritain>
+		<Italy>Rome</Italy>
+		<Spain>Barcelona</Spain>
+	</favoriteCities>
+</preferences>

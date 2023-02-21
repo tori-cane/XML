@@ -1,0 +1,21 @@
+<skills>
+	<testingFundamentals>
+		<topic>SDLC</topic>
+		<topic>STLC</topic>
+		<topic>Bug Lifecycle</topic>
+		<topic>Requirements Analysis</topic>
+		<topic>Test Design Techniques</topic>
+		<topic>Scrum development process</topic>
+		<topic>Testing Methods</topic>
+		<topic>Network Principles</topic>
+	</testingFundamentals>
+	<tools>
+		<bugTrackingSystem>Jira</bugTrackingSystem>
+		<testManagementTool>TestRails</testManagementTool>
+		<QAAutomationTool>Selenium WebDriver</QAAutomationTool>
+		<APITesting>Postman</APITesting>
+	</tools>
+	<languages>
+		<language>Python</language>
+		<language>SQL</language>
+	</languages>
